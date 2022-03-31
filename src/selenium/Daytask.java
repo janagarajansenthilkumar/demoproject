@@ -44,6 +44,7 @@ public class Daytask {
 		
 		
 		
+		driver.close();
 		
 		
 	}
